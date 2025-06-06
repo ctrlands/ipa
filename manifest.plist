@@ -17,13 +17,13 @@
                 <key>metadata</key>
                 <dict>
                     <key>bundle-identifier</key>
-                    <string>com.ZX.ZKTools</string>
+                    <string>com.hzjuzhi.FloatingClock</string>
                     <key>bundle-version</key>
-                    <string>4.9.0</string>
+                    <string>4.8.3</string>
                     <key>kind</key>
                     <string>software</string>
                     <key>title</key>
-                    <string>ZK助手</string>
+                    <string>悬浮时钟</string>
                 </dict>
             </dict>
         </array>
