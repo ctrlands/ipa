@@ -11,19 +11,19 @@
                         <key>kind</key>
                         <string>software-package</string>
                         <key>url</key>
-                        <string>https://dlink.host/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvYy84YjBlOGYwN2ViMmYzZjk2L0VUU0E3RlNFS1M5QnVoMlB0UmM3TzhRQkJfc1h1WTdoc0hoWHZmWF96T04ySHc.jpg</string>
+                        <string>https://dlink.host/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvYy84YjBlOGYwN2ViMmYzZjk2L0VleG5KWVZzU1BkT2p1ZFF2RVVkN25JQldGUnFKelctaDlGYlNTcDBFVjRZNGc_ZT1GT216d0I.zip</string>
                     </dict>
                 </array>
                 <key>metadata</key>
                 <dict>
                     <key>bundle-identifier</key>
-                    <string>com.hzjuzhi.FloatingClock</string>
+                    <string>com.tencent.xin</string>
                     <key>bundle-version</key>
-                    <string>4.8.3</string>
+                    <string>8.0.32</string>
                     <key>kind</key>
                     <string>software</string>
                     <key>title</key>
-                    <string>悬浮时钟</string>
+                    <string>微信</string>
                 </dict>
             </dict>
         </array>
